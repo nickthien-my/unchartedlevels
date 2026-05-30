@@ -1,15 +1,8 @@
 ---
 title: Home Page
 publish: true
+modified: 2026-05-14
 ---
-## Articles
-- [[Monster Factory Part I - History of Violence]]
-- [[Nintendo Zigged When They Should Have Zagged]]
-- [[Black Myth - Wukong]]
-## Daily Notes
-- [[2026-05-09]]
-- [[2026-05-08]]
+A gaming [Digital Garden](https://lateral.wiki/Digital%20Garden) maintained by Nicholas Thien Min Jit.
 
-## Systems
-- [[PC]]
-- [[PlayStation]]
+I'm a freelance gaming journalist and content writer based in Kuala Lumpur.

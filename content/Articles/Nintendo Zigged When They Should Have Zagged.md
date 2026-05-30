@@ -2,6 +2,8 @@
 title: Nintendo Zigged When They Should Have Zagged
 publish: true
 modified: 2025-04-05
+tags:
+  - articles
 ---
 With the rising cost of game development and prices, maybe it's time for Nintendo to return to it's two platform strategy?
 

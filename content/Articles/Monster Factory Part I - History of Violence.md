@@ -2,6 +2,8 @@
 title: "Monster Factory Part I: History of Violence"
 publish: true
 modified: 2025-11-05
+tags:
+  - articles
 ---
 Are video games making our children killers?
 

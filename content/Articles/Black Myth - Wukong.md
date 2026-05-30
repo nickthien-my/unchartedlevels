@@ -2,6 +2,8 @@
 title: "Review: Black Myth: Wukong"
 publish: true
 modified: 2024-08-23
+tags:
+  - articles
 ---
 Start of a new mythology? Design and technical issues says no!
 
