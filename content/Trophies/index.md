@@ -8,5 +8,5 @@ Tracking the progress of the games that I'm playing. Not the most accurate way, 
 | Name                                                      | Platform      | Progress |
 | --------------------------------------------------------- | ------------- | -------: |
 | [[Batman_ Arkham Asylum Trophies\|Batman: Arkham Asylum]] | PlayStation 4 |     5/48 |
-| [[Metal Gear Solid Trophies\|Metal Gear Solid]]           | PlayStation 5 |    16/18 |
+| [[Currently Playing/Metal Gear Solid/index\|Metal Gear Solid]]           | PlayStation 5 |    16/18 |
 | [[Vampire Survivors Trophies\|Vampire Survivors]]         | PlayStation 5 |  244/244 |

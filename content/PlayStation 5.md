@@ -4,4 +4,4 @@ publish: true
 modified: 2026-05-14
 ---
 ## Games I've Platinumed
-- [[Vampire Survivors]]
+- [[Currently Playing/Vampire Survivors/index]]

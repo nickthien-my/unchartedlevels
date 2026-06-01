@@ -1,8 +1,11 @@
 ---
 title: Vampire Survivors
 publish: true
-modified: 2026-05-14
+modified: 2026-06-01
 ---
+### 1st June 2026
+Trying something out... This is a video playing in a [[CombinedDeathAnimation.webm|popup]]?
+
 ## Vampire Survivors Still Got Its Hooks in Me
 I had platinumed the [[PlayStation 5]] version of [[Vampire Survivors]] about a year or two ago. It had just released on the platform at the time together with the launch of its newest DLC at the time, [[#Operation Guns]]. I had decided to revisit the game on [[Steam]] as it was one of the few games that I was interested in playing that I could run reliably on PC2.
 
