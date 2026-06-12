@@ -13,7 +13,6 @@ modified: 2026-06-02
 ## On Hold/Backlog
 - **[[Batman - Arkham Asylum]]**
 - **[[Metal Gear Solid]]** - The remaining two trophies, [[Metal Gear Solid - Trophy - Elite|Elite]] and [[Metal Gear Solid - Trophy - Practice Makes Perfect|Practice Makes Perfect]] are quite involved. I might only get to them once I have more free time on my hands.
-
 ## Upcoming Games
 A list of games that I'm interested in getting that haven't been released yet.
 
@@ -37,3 +36,6 @@ A list of games that I'm interested in getting that haven't been released yet.
 | Star Fox                                  | Nintendo             | 25th June 2026      |
 | Tomb Raider: Legacy of Atlantis           | Amazon Game Studios  | 12th February 2027  |
 | Until Dawn 2                              | Firesprite           | 2027                |
+## Hardware
+- [[PC]]
+- [[PlayStation 5]]
