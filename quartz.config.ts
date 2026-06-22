@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian", "02 Notes/*"],
+    ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -90,6 +90,11 @@ const config: QuartzConfig = {
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
       Plugin.CustomOgImages(),
+      Plugin.Explorer({
+      filterFn: (node) => {
+        // Replace 'your-folder-name' with the actual name of your folder
+        return node.name !== "02 Notes"
+      },
     ],
   },
 }
