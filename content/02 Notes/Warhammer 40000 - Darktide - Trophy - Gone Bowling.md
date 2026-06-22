@@ -12,5 +12,6 @@ unlocked_date:
 ### Description
 > As the Ogryn, knock down 60 enemies with a single Bull Rush on Malice Threat or higher.
 ### Screenshot
+![[Warhammer 40,000 - Darktide - Trophy - Gone Bowling - Trophy Clip.mp4]]
 > ![](https://youtu.be/1ejI8NHD4Pg)
 ### Notes
