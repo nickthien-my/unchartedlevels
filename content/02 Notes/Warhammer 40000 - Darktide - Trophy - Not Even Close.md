@@ -8,9 +8,7 @@ unlocked: false
 unlocked_date:
 ---
 ### Icon
-![[Warhammer 40000 - Darktide - Trophy - Not Even Close - Trophy Icon.png]]
+![[Warhammer 40000 - Darktide - Trophy - Not Even Close - Trophy Icon.png|100]]
 ### Description
 > As the Psyker, kill a pouncing Pox Hound with Brain Burst.
-### Screenshot
-> No screenshot available
-### Notes
+### Trophy Clip

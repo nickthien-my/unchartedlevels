@@ -8,9 +8,7 @@ unlocked: false
 unlocked_date:
 ---
 ### Icon
-![[Warhammer 40000 - Darktide - Trophy - Marked For Death - Trophy Icon.png]]
+![[Warhammer 40000 - Darktide - Trophy - Marked For Death - Trophy Icon.png|100]]
 ### Description
 > As the Veteran, hit 4 weak spots without missing a shot during a single use of Volley Fire.
-### Screenshot
-> No screenshot available
-### Notes
+### Trophy Clip

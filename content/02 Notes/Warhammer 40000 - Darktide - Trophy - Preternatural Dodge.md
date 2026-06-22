@@ -8,9 +8,8 @@ unlocked: true
 unlocked_date: 2026-06-07T14:08:00
 ---
 ### Icon
-![[Warhammer 40000 - Darktide - Trophy - Preternatural Dodge - Trophy Icon.png]]
+![[Warhammer 40000 - Darktide - Trophy - Preternatural Dodge - Trophy Icon.png|100]]
 ### Description
 > Dodge 12 attacks without taking damage.
-### Screenshot
-![[Warhammer 40000 - Darktide - Trophy - Preternatural Dodge - Trophy Screenshot.jpg]]
-### Notes
+### Trophy Clip
+![[Warhammer 40000 - Darktide - Trophy - Preternatural Dodge - Trophy Clip.mp4]]

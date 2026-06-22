@@ -8,9 +8,7 @@ unlocked: false
 unlocked_date:
 ---
 ### Icon
-![[Warhammer 40000 - Darktide - Trophy - The Emperor Protects - Trophy Icon.png]]
+![[Warhammer 40000 - Darktide - Trophy - The Emperor Protects - Trophy Icon.png|100]]
 ### Description
 > Complete 10 missions in a row without being downed on Malice Threat or higher.
-### Screenshot
-> No screenshot available
-### Notes
+### Trophy Clip

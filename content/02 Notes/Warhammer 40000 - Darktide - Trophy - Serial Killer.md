@@ -8,9 +8,7 @@ unlocked: false
 unlocked_date:
 ---
 ### Icon
-![[Warhammer 40000 - Darktide - Trophy - Serial Killer - Trophy Icon.png]]
+![[Warhammer 40000 - Darktide - Trophy - Serial Killer - Trophy Icon.png|100]]
 ### Description
 > Kill 20 consecutive enemies with headshots.
-### Screenshot
-> No screenshot available
-### Notes
+### Trophy Clip

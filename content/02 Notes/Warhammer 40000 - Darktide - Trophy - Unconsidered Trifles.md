@@ -8,9 +8,8 @@ unlocked: true
 unlocked_date: 2026-06-07T16:22:00
 ---
 ### Icon
-![[Warhammer 40000 - Darktide - Trophy - Unconsidered Trifles - Trophy Icon.png]]
+![[Warhammer 40000 - Darktide - Trophy - Unconsidered Trifles - Trophy Icon.png|100]]
 ### Description
 > Unlock your first Curio slot.
-### Screenshot
-![[Warhammer 40000 - Darktide - Trophy - Unconsidered Trifles - Trophy Screenshot.jpg]]
-### Notes
+### Trophy Clip
+![[Warhammer 40000 - Darktide - Trophy - Unconsidered Trifles - Trophy Clip.mp4]]

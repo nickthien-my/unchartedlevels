@@ -8,9 +8,7 @@ unlocked: false
 unlocked_date:
 ---
 ### Icon
-![[Warhammer 40000 - Darktide - Trophy - Up and at Em - Trophy Icon.png]]
+![[Warhammer 40000 - Darktide - Trophy - Up and at Em - Trophy Icon.png|100]]
 ### Description
 > Help 100 downed Operatives back up.
-### Screenshot
-> No screenshot available
-### Notes
+### Trophy Clip

@@ -8,9 +8,7 @@ unlocked: false
 unlocked_date:
 ---
 ### Icon
-![[Warhammer 40000 - Darktide - Trophy - Frenzied Killer - Trophy Icon.png]]
+![[Warhammer 40000 - Darktide - Trophy - Frenzied Killer - Trophy Icon.png|100]]
 ### Description
 > Kill 90 enemies in less than 30 seconds.
-### Screenshot
-> No screenshot available
-### Notes
+### Trophy Clip

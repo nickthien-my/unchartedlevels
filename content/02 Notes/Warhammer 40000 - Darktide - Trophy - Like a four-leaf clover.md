@@ -8,9 +8,7 @@ unlocked: false
 unlocked_date:
 ---
 ### Icon
-![[Warhammer 40000 - Darktide - Trophy - Like a four-leaf clover - Trophy Icon.png]]
+![[Warhammer 40000 - Darktide - Trophy - Like a four-leaf clover - Trophy Icon.png|100]]
 ### Description
 > Have 4 different Classes at rank 30.
-### Screenshot
-> No screenshot available
-### Notes
+### Trophy Clip

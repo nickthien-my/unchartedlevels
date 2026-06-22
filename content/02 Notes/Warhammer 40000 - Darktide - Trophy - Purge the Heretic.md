@@ -8,9 +8,7 @@ unlocked: false
 unlocked_date:
 ---
 ### Icon
-![[Warhammer 40000 - Darktide - Trophy - Purge the Heretic - Trophy Icon.png]]
+![[Warhammer 40000 - Darktide - Trophy - Purge the Heretic - Trophy Icon.png|100]]
 ### Description
 > Kill a total of 40.000 enemies.
-### Screenshot
-> No screenshot available
-### Notes
+### Trophy Clip

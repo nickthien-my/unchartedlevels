@@ -8,9 +8,7 @@ unlocked: false
 unlocked_date:
 ---
 ### Icon
-![[Warhammer 40000 - Darktide - Trophy - Going Out With a Bang - Trophy Icon.png]]
+![[Warhammer 40000 - Darktide - Trophy - Going Out With a Bang - Trophy Icon.png|100]]
 ### Description
 > As the Psyker, kill 1 elite with a single Perils of the Warp on Malice Threat or higher.
-### Screenshot
-> No screenshot available
-### Notes
+### Trophy Clip

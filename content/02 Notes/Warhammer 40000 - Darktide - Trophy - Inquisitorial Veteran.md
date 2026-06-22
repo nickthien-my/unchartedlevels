@@ -8,9 +8,8 @@ unlocked: true
 unlocked_date: 2026-06-07T18:03:00
 ---
 ### Icon
-![[Warhammer 40000 - Darktide - Trophy - Inquisitorial Veteran - Trophy Icon.png]]
+![[Warhammer 40000 - Darktide - Trophy - Inquisitorial Veteran - Trophy Icon.png|100]]
 ### Description
 > Complete at least one of each Mission type on Uprising Threat or higher.
-### Screenshot
-![[Warhammer 40000 - Darktide - Trophy - Inquisitorial Veteran - Trophy Screenshot.jpg]]
-### Notes
+### Trophy Clip
+![[Warhammer 40000 - Darktide - Trophy - Inquisitorial Veteran - Trophy Clip.mp4]]

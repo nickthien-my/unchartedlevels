@@ -8,9 +8,8 @@ unlocked: true
 unlocked_date: 2026-06-07T14:04:00
 ---
 ### Icon
-![[Warhammer 40000 - Darktide - Trophy - Flawless Interrogator - Trophy Icon.png]]
+![[Warhammer 40000 - Darktide - Trophy - Flawless Interrogator - Trophy Icon.png|100]]
 ### Description
 > Complete a Data Interrogation without an incorrect Auspex entry.
-### Screenshot
-![[Warhammer 40000 - Darktide - Trophy - Flawless Interrogator - Trophy Screenshot.jpg]]
-### Notes
+### Trophy Clip
+![[Warhammer 40000 - Darktide - Trophy - Flawless Interrogator - Trophy Clip.mp4]]

@@ -8,9 +8,7 @@ unlocked: false
 unlocked_date:
 ---
 ### Icon
-![[Warhammer 40000 - Darktide - Trophy - Cliffhanger - Trophy Icon.png]]
+![[Warhammer 40000 - Darktide - Trophy - Cliffhanger - Trophy Icon.png|100]]
 ### Description
 > As the Psyker, kill 7 enemies in 2 seconds by knocking them off a ledge with Psykinetic's Wrath.
-### Screenshot
-> No screenshot available
-### Notes
+### Trophy Clip

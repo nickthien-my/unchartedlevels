@@ -8,9 +8,7 @@ unlocked: false
 unlocked_date:
 ---
 ### Icon
-![[Warhammer 40000 - Darktide - Trophy - Inquisitorial Legend - Trophy Icon.png]]
+![[Warhammer 40000 - Darktide - Trophy - Inquisitorial Legend - Trophy Icon.png|100]]
 ### Description
 > Complete at least one of each Mission type on Heresy Threat or higher.
-### Screenshot
-> No screenshot available
-### Notes
+### Trophy Clip

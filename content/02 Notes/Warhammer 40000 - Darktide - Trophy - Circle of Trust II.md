@@ -8,9 +8,8 @@ unlocked: true
 unlocked_date: 2026-06-07T22:13:00
 ---
 ### Icon
-![[Warhammer 40000 - Darktide - Trophy - Circle of Trust II - Trophy Icon.png]]
+![[Warhammer 40000 - Darktide - Trophy - Circle of Trust II - Trophy Icon.png|100]]
 ### Description
 > Complete Path of Trust Chapter 2.
-### Screenshot
-![[Warhammer 40000 - Darktide - Trophy - Circle of Trust II - Trophy Screenshot.jpg]]
-### Notes
+### Trophy Clip
+![[Warhammer 40000 - Darktide - Trophy - Circle of Trust II - Trophy Clip.mp4]]

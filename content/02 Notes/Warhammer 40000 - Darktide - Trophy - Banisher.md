@@ -8,9 +8,7 @@ unlocked: false
 unlocked_date:
 ---
 ### Icon
-![[Warhammer 40000 - Darktide - Trophy - Banisher - Trophy Icon.png]]
+![[Warhammer 40000 - Darktide - Trophy - Banisher - Trophy Icon.png|100]]
 ### Description
 > Banish a Daemonhost.
-### Screenshot
-> No screenshot available
-### Notes
+### Trophy Clip

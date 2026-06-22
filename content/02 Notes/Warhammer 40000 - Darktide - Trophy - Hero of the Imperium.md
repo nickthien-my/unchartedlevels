@@ -8,11 +8,8 @@ unlocked: false
 unlocked_date:
 ---
 ### Icon
-![[Warhammer 40000 - Darktide - Trophy - Hero of the Imperium - Trophy Icon.png]]
+![[Warhammer 40000 - Darktide - Trophy - Hero of the Imperium - Trophy Icon.png|100]]
 ### Description
 > Your deeds will be the subject of glorious battle hymns. The Emperor has truly blessed you.  
 > 
 > Complete all Trophies.
-### Screenshot
-> No screenshot available
-### Notes

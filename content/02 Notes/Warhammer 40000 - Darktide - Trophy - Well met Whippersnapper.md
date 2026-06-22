@@ -8,9 +8,8 @@ unlocked: true
 unlocked_date: 2026-06-07T17:31:00
 ---
 ### Icon
-![[Warhammer 40000 - Darktide - Trophy - Well Met Whippersnapper - Trophy Icon.png]]
+![[Warhammer 40000 - Darktide - Trophy - Well Met Whippersnapper - Trophy Icon.png|100]]
 ### Description
 > Unlock access to Sire Melk's Requisitiorium.
-### Screenshot
-![[Warhammer 40000 - Darktide - Trophy - Well Met Whippersnapper - Trophy Screenshot.jpg]]
-### Notes
+### Trophy Clip
+![[Warhammer 40000 - Darktide - Trophy - Well Met Whippersnapper - Trophy Clip.mp4]]

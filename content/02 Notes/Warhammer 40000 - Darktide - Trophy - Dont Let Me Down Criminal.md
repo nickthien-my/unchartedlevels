@@ -8,9 +8,8 @@ unlocked: true
 unlocked_date: 2026-06-05T11:38:00
 ---
 ### Icon
-![[Warhammer 40000 - Darktide - Trophy - Dont Let Me Down Criminal - Trophy Icon.png]]
+![[Warhammer 40000 - Darktide - Trophy - Dont Let Me Down Criminal - Trophy Icon.png|100]]
 ### Description
 > Complete the Prologue.
-### Screenshot
-![[Warhammer 40000 - Darktide - Trophy - Dont Let Me Down Criminal - Trophy Screenshot.jpg]]
-### Notes
+### Trophy Clip
+![[Warhammer 40000 - Darktide - Trophy - Dont Let Me Down Criminal - Trophy Clip.mp4]]

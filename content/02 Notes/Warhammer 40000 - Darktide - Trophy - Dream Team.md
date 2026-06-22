@@ -8,9 +8,7 @@ unlocked: false
 unlocked_date:
 ---
 ### Icon
-![[Warhammer 40000 - Darktide - Trophy - Dream Team - Trophy Icon.png]]
+![[Warhammer 40000 - Darktide - Trophy - Dream Team - Trophy Icon.png|100]]
 ### Description
 > Complete 100 missions without anyone being downed.
-### Screenshot
-> No screenshot available
-### Notes
+### Trophy Clip
