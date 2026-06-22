@@ -4,9 +4,9 @@ modified: 2026-06-07
 ---
 ## Recent Trophies
 ### Gone Bowling
-![[Warhammer 40000 - Darktide - Trophy - Gone Bowling]]
+![[Warhammer 40000 - Darktide - Trophy - Gone Bowling#Video Clip]]
 ### Something in you Eye
-![[Warhammer 40000 - Darktide - Trophy - Something in you Eye]]
+![[Warhammer 40000 - Darktide - Trophy - Something in you Eye#Video Clip]]
 ## Unlocked Trophies
 
 |                                                                                            | Name                                                                                             |
