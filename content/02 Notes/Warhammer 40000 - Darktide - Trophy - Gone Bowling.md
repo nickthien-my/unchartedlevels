@@ -12,5 +12,5 @@ unlocked_date:
 ### Description
 > As the Ogryn, knock down 60 enemies with a single Bull Rush on Malice Threat or higher.
 ### Screenshot
-> No screenshot available
+> ![](https://youtu.be/1ejI8NHD4Pg)
 ### Notes
