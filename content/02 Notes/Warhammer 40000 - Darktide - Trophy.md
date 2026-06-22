@@ -2,6 +2,11 @@
 title: "Warhammer 40,000:  Darktide Trophies"
 modified: 2026-06-07
 ---
+## Recent Trophies
+### Gone Bowling
+![[Warhammer 40000 - Darktide - Trophy - Gone Bowling]]
+### Something in you Eye
+![[Warhammer 40000 - Darktide - Trophy - Something in you Eye]]
 ## Unlocked Trophies
 
 |                                                                                            | Name                                                                                             |
