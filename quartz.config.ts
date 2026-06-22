@@ -94,7 +94,8 @@ const config: QuartzConfig = {
       filterFn: (node) => {
         // Replace 'your-folder-name' with the actual name of your folder
         return node.name !== "02 Notes"
-      },
+        },
+      }),
     ],
   },
 }
