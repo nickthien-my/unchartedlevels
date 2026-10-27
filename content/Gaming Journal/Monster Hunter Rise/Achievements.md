@@ -1,9 +1,6 @@
 ---
 game: Monster Hunter Rise
 ---
-## Table of Contents
-- [[Gaming Journal/Monster Hunter Rise/Achievements#Achievements|Achievements]]
-- [[Gaming Journal/Monster Hunter Rise/Achievements#Requirements|Requirements]]
 ## Achievements
 - [x] Kamura Amulet
 - [x] Ancestral Blade
@@ -42,7 +39,7 @@ game: Monster Hunter Rise
 - [ ] Runner's Sandals
 - [ ] Dreadnought Destroyer Plaque
 - [x] Five-in-One Plaque
-- [ ] Seasoned Jockey Plaque
+- [x] Seasoned Jockey Plaque
 - [ ] Fan of Ascendancy
 - [ ] Arena Fighter Certificate
 - [ ] From Palicoes, with Love

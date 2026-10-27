@@ -1,0 +1,68 @@
+---
+game: Monster Hunter Rise
+---
+## Endemic Life
+- [x] Red Spiribird
+- [x] Orange Spiribird
+- [x] Green Spiribird
+- [x] Yellow Spiribird
+- [ ] Prism Spiribird
+- [x] Poisontoad
+- [ ] Paratoad
+- [ ] ???
+- [x] Blastoad
+- [x] Firebeetle
+- [x] Mudbeetle
+- [x] Thunderbeetle
+- [x] Snowbeetle
+- [x] Stinkmink
+- [x] Escuregot
+- [x] Puppet Spider
+- [x] Wailnard
+- [x] Trapbugs
+- [x] Antidobra
+- [x] Brewhare
+- [x] Lanternbug
+- [ ] Gustcrab
+- [ ] Aurortle
+- [x] Wirebug
+- [x] Vigorwasp
+- [x] Clothfly
+- [x] Butterflame
+- [x] Peepersects
+- [x] Cutterfly
+- [x] Red Lampsquid
+- [ ] Yellow Lampsquid
+- [x] Green Lampsquid
+- [x] Golden Lampsquid
+- [x] Flashfly
+- [x] Tricktoad
+- [ ] Pincercrab
+- [x] Giganha
+- [ ] Echobat
+- [x] Rock Lizard
+- [ ] Boulder Lizard
+- [ ] Scale Lizard
+- [x] Fortune Owl
+- [ ] Felicicrow
+- [ ] ???
+- [ ] ???
+- [ ] ???
+- [ ] ???
+- [ ] ???
+- [x] Great Wirebug
+- [x] Golden Spiribug
+- [x] Gilded Spiribug
+## Large Monster
+### Great Izuchi
+- [ ] Large Crown
+- [ ] Mini Crown
+- [x] Scroll
+### Great Baggi
+- [ ] Large Crown
+- [ ] Mini Crown
+- [ ] Scroll
+### Kulu-Ya-Ku
+- [ ] Large Crown
+- [ ] Mini Crown
+- [ ] Scroll

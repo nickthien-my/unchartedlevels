@@ -1,3 +1,0 @@
----
-game: Monster Hunter Rise
----
