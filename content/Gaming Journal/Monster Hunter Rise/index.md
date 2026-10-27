@@ -1,13 +1,18 @@
 ---
 title: Monster Hunter Rise
+aliases:
+  - MHR
+  - MH Rise
 game: Monster Hunter Rise
 ---
+![[header.jpg]]
+
 > [!info]+ Game Details
 > **Developer:** [[Capcom]]
 > 
 > **Publisher:** [[Capcom]]
 > 
-> **Release Date:** 20th October 2022
+> **Release Date:** 13th January 2022
 ## Map of Content
 - [[Gaming Journal/Monster Hunter Rise/Achievements|Achievements]]
 - [[Weapons]]

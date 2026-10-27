@@ -7,5 +7,4 @@ I'm a freelance gaming journalist and content writer based in Kuala Lumpur.
 
 ## Gaming Journals
 - [[Gaming Journal/Kingdom Hearts Birth by Sleep]]
-- [[Gaming Journal/Monster Hunter Rise/index]]
 - [[Gaming Journal/Monster Hunter Rise/index.md|Monster Hunter Rise]]
