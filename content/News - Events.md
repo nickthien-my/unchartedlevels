@@ -1,6 +1,6 @@
 ---
 title: News & Events
-publish:
+draft: true
 ---
 ### News
 

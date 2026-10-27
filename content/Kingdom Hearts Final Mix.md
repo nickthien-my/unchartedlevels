@@ -1,5 +1,5 @@
 ---
-publish:
+draft: true
 ---
 Quick Links
 [[#August 24th, 2026]]
