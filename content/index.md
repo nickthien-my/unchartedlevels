@@ -1,5 +1,5 @@
 ---
-title: Home Page
+title: Uncharted Levels
 ---
 A gaming [Digital Garden](https://lateral.wiki/Digital%20Garden) maintained by Nicholas Thien Min Jit.
 
