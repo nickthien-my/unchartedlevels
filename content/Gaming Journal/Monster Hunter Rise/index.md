@@ -15,4 +15,4 @@ game: Monster Hunter Rise
 > **Release Date:** 13th January 2022
 ## Map of Content
 - [[Gaming Journal/Monster Hunter Rise/Achievements|Achievements]]
-- [[Checklists|Checklists]]
+- [[Checklists]]
