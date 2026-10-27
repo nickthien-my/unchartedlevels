@@ -1,5 +1,5 @@
 ---
-aliases:
+title:
   - Monster Hunter Rise
 game: Monster Hunter Rise
 ---
