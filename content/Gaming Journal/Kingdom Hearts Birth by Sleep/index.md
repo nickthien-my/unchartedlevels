@@ -14,4 +14,4 @@ game: Kingdom Hearts Birth by Sleep
 > 
 > **Release Date:** 13th June 2024
 ## Map of Content
-- [[Gaming Journal/Kingdom Hearts Birth by Sleep/Achievement|Achievements]]
+- [[Gaming Journal/Kingdom Hearts Birth by Sleep/Achievements|Achievements]]

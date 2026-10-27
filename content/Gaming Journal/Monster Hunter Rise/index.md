@@ -5,7 +5,7 @@ aliases:
   - MH Rise
 game: Monster Hunter Rise
 ---
-![[header.jpg]]
+![[03 Assets/Monster Hunter Rise/header.jpg]]
 
 > [!info]+ Game Details
 > **Developer:** [[Capcom]]
