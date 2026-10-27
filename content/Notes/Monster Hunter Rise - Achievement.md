@@ -1,10 +1,15 @@
 ---
 aliases:
   - Monster Hunter Rise Achievements
-publish: true
+draft: false
 game: Monster Hunter Rise
 ---
-- [ ] [[Monster Hunter Rise - Achievement - Kamura Amulet|Kamura Amulet]]
+## Table of Contents
+- [[Monster Hunter Rise - Achievement#Achievements|Achievements]]
+- [[Monster Hunter Rise - Achievement#Requirements|Requirements]]
+- 
+## Achievements
+- [ ] Kamura Amulet
 - [ ] Ancestral Blade
 - [ ] Apex Shortsword
 - [ ] Tempestuous Triumph Scroll
@@ -54,3 +59,10 @@ game: Monster Hunter Rise
 - [ ] Mini Crown Plaque
 - [ ] Gold Crown Plaque
 - [ ] Badge of Excellence
+
+## Requirements
+|        Name         | Description                                                                           |
+| :-----------------: | ------------------------------------------------------------------------------------- |
+|  **Kamura Amulet**  | A trinket given to new hunters who have proved themselves capable.                    |
+| **Ancestral Blade** | A prize for vanquishing Magnamalo. This blade has led Kamura for generations.         |
+| **Apex Shortsword** | Granted for banishing an Apex in the Rampage. Its blade is riddled with battle scars. |
