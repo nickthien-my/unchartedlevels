@@ -7,6 +7,8 @@ A gaming [Digital Garden](https://lateral.wiki/Digital%20Garden) maintained by N
 
 I'm a freelance gaming journalist and content writer based in Kuala Lumpur.
 
+## Games
+- [[Monster Hunter Rise]]
 ## MOCs
 - **[[Gaming Journal]]** - My thoughts and notes about games as I play them.
 - [[News - Events]] - Things that have caught my eye.

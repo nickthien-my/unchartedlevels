@@ -12,9 +12,15 @@ I'm thinking of migrating my current desktop hardware to the server.
 - **CPU:** AMD Ryzen 5 3600
 - **GPU:** NVIDIA GeForce GTX 1060 6GB
 - **MOBO:** ASRock AB350M Pro4
-## Desktop (PC1) Goals
-- **CPU:** AMD Ryzen 5 5600X
-- **GPU:** AMD Radeon RX 6600 XT
+
+### Living Room (Temp)
+- CPU: Dell XPS CPU
+- GPU: Second hand AMD GPU
+- MOBO: 
+
+## Living Room / Desktop Goals
+- **CPU:** AMD Ryzen 5 5700X
+- **GPU:** AMD Radeon RX 6700 XT
 - **MOBO:** Gigabyte B550M Aorus Elite AX
 ## Accessories (PC1)
 - **Keyboard:** Akko 5075B
@@ -25,5 +31,16 @@ I'm thinking of migrating my current desktop hardware to the server.
 ## Accessories (PC2)
 - **Keyboard:** Logitech G413
 ## Media Server Specs
-- **CPU:** Intel i7-3770
+- **CPU:** Chuwi
 - **MOBO:** Gigabyte Z77M-D3H
+### Summary Checklist for your Build:
+
+- **CPU:** Ryzen 5 5600 / 5600X (Solid, cheap, proven).
+    
+- **Board:** B550 (Gives you PCIe 4.0 for the GPU).
+    
+- **RAM:** 2x8GB DDR4-3200 (Dual-channel is non-negotiable for performance).
+    
+- **GPU:** AMD Radeon RX 7600 (Matches the 1080p target perfectly).
+    
+- **Cooling:** Any standard tower air cooler with 120mm fans.

@@ -2,8 +2,12 @@
 title: Gaming Journal
 modified: 2026-06-02
 ---
-## Currently Playing
+## Reviews
+[[Tomb Raider (2013)]]
+[[Review Methodology]]
 
+## Currently Playing
+- [[Monster Hunter Rise]] - asd
 - **[[Castlevania - Symphony of the Night]]** - Taking notes of my route to see if I can make a more efficient route.
 - **[[Warhammer 40000 - Darktide]]** - Started the [[PlayStation 5]] version of the game, might jump back and forth between this and the [[PC]] version until I catch up with my characters.
 - [[Hades]] - Bought this game recently on sale. I got the [[PlayStation 5]] version.

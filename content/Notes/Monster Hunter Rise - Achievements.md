@@ -1,0 +1,56 @@
+---
+aliases:
+  - Achievements
+publish: true
+game: Monster Hunter Rise
+---
+- [ ] [[Monster Hunter Rise - Achievement - Kamura Amulet|Kamura Amulet]]
+- [ ] Ancestral Blade
+- [ ] Apex Shortsword
+- [ ] Tempestuous Triumph Scroll
+- [ ] Calamity Conqueror Scroll
+- [ ] Aspiring Hunter Certificate
+- [ ] Rampage Nemesis Certificate
+- [ ] Spiritwood Necklace
+- [ ] Frozen Lampsquid Earring
+- [ ] Prismatic Chalice
+- [ ] Silver Cactus Ring
+- [ ] Heliotrope Bracelet
+- [ ] Wreath of Honor
+- [ ] Kamura Pinwheel
+- [ ] Shabby Canyne Saddle
+- [ ] Beat-up Construction Kit
+- [ ] Great Wirebug Plate
+- [ ] Hunting Helpers Plate
+- [ ] Golden Spiribug Plate
+- [ ] Antique Bookmark
+- [ ] Deft-hand Rod
+- [ ] Well-done Grillmeister
+- [ ] Copper Ecologist's Award
+- [ ] Silver Ecologist's Award
+- [ ] Gold Ecologist's Award
+- [ ] Extravagant Cashbox
+- [ ] Well-worn Cashbox
+- [ ] Thank-mew Letter
+- [ ] Good Luck Charm
+- [ ] Palamute Gear Tune-up Kit
+- [ ] Luxury Armor Stand
+- [ ] Master's Black Belt
+- [ ] Chef's Trusty Tools
+- [ ] Cohoots' Dresser
+- [ ] Runner's Sandals
+- [ ] Dreadnought Destroyer Plaque
+- [ ] Five-in-One Plaque
+- [ ] Seasoned Jockey Plaque
+- [ ] Fan of Ascendancy
+- [ ] Arena Fighter Certificate
+- [ ] From Palicoes, with Love
+- [ ] Colorful Armor Stand
+- [ ] Petalace Arrangement Vase
+- [ ] Fan of Fading Crimson
+- [ ] Fan of True Ascendancy
+- [ ] Adept Hunter Certificate
+- [ ] Sturdy Padlock
+- [ ] Mini Crown Plaque
+- [ ] Gold Crown Plaque
+- [ ] Badge of Excellence
