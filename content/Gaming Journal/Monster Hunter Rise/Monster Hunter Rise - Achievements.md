@@ -5,8 +5,8 @@ draft: false
 game: Monster Hunter Rise
 ---
 ## Table of Contents
-- [[Monster Hunter Rise - Achievement#Achievements|Achievements]]
-- [[Monster Hunter Rise - Achievement#Requirements|Requirements]]
+- [[Monster Hunter Rise - Achievements#Achievements|Achievements]]
+- [[Monster Hunter Rise - Achievements#Requirements|Requirements]]
 - 
 ## Achievements
 - [ ] Kamura Amulet
