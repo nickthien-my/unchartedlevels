@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Achievements
+  - Monster Hunter Rise Achievements
 publish: true
 game: Monster Hunter Rise
 ---

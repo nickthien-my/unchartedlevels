@@ -1,6 +1,6 @@
 ---
 title: News & Events
-modified: 2026-06-03
+publish:
 ---
 ### News
 

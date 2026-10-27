@@ -4,6 +4,6 @@ aliases:
 publish: true
 game: Monster Hunter Rise
 ---
-[[Monster Hunter Rise - Achievements|Achievements]]
+[[Monster Hunter Rise - Achievement|Achievements]]
 [[Monster Hunter Rise - Weapons]]
 
