@@ -1,12 +1,11 @@
 ---
 aliases:
   - Monster Hunter Rise Achievements
-draft: false
 game: Monster Hunter Rise
 ---
 ## Table of Contents
-- [[Monster Hunter Rise - Achievements#Achievements|Achievements]]
-- [[Monster Hunter Rise - Achievements#Requirements|Requirements]]
+- [[Gaming Journal/Monster Hunter Rise/Achievements#Achievements|Achievements]]
+- [[Gaming Journal/Monster Hunter Rise/Achievements#Requirements|Requirements]]
 - 
 ## Achievements
 - [ ] Kamura Amulet
