@@ -1,6 +1,5 @@
 ---
-title:
-  - Monster Hunter Rise
+title: Monster Hunter Rise
 game: Monster Hunter Rise
 ---
 > [!info]+ Game Details
