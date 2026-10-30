@@ -1,8 +1,5 @@
 ---
 title: Monster Hunter Rise
-aliases:
-  - MHR
-  - MH Rise
 game: Monster Hunter Rise
 ---
 ![[03 Assets/Monster Hunter Rise/header.jpg]]
@@ -17,8 +14,10 @@ game: Monster Hunter Rise
 - [[Checklists]]
 
 ## Journal
+### 30th October
+![](https://youtu.be/acdoox8OQj8)
 ### 29th October, 2026
 ![](https://youtu.be/C0SZ1sGH9UA)
 ### 27th October, 2026
-Did the 5★ Star Urgent Quest today. 
+Did the 5★ Star Urgent Quest today.
 ![](https://youtu.be/Dp9VQQhXUYQ)

@@ -1,8 +1,5 @@
 ---
 title: Kingdom Hearts Birth by Sleep
-aliases:
-  - KHBBS
-  - BBS
 game: Kingdom Hearts Birth by Sleep
 ---
 ![[03 Assets/Kingdom Hearts Birth by Sleep/header.jpg]]
