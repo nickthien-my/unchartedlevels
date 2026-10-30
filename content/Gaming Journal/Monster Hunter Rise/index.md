@@ -12,5 +12,13 @@ game: Monster Hunter Rise
 > **Publisher:** [[Capcom]]
 > **Release Date:** 13th January 2022
 ## Map of Content
-- [[Gaming Journal/Monster Hunter Rise/Achievements|Achievements]]
+- [[Achievements (Monster Hunter Rise)|Achievements (Monster Hunter Rise)]]
+- [[Monster Hunter Rise - Weapon Builds|Weapon Builds]]
 - [[Checklists]]
+
+## Journal
+### 29th October, 2026
+![](https://youtu.be/C0SZ1sGH9UA)
+### 27th October, 2026
+Did the 5★ Star Urgent Quest today. 
+![](https://youtu.be/Dp9VQQhXUYQ)
