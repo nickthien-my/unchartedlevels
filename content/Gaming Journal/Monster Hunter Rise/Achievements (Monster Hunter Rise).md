@@ -5,7 +5,10 @@ game: Monster Hunter Rise
 - [x] Kamura Amulet
 - [x] Ancestral Blade
 - [x] Apex Shortsword
-- [x] Tempestuous Triumph Scroll
+
+**Tempestuous Triumph Scroll**
+![[Monster Hunter Rise - Achievements - Tempestuous Triumph Scroll.png]]
+
 - [ ] Calamity Conqueror Scroll
 - [x] Aspiring Hunter Certificate
 - [ ] Rampage Nemesis Certificate
@@ -31,7 +34,10 @@ game: Monster Hunter Rise
 - [x] Well-worn Cashbox
 - [ ] Thank-mew Letter
 - [ ] Good Luck Charm
-- [ ] Palamute Gear Tune-up Kit
+
+**Palamute Gear Tune-up Kit**
+![[Monster Hunter Rise - Achievements - Palamute Gear Tune Up.png]]
+
 - [ ] Luxury Armor Stand
 - [ ] Master's Black Belt
 - [ ] Chef's Trusty Tools

@@ -2,7 +2,7 @@
 title: Monster Hunter Rise
 game: Monster Hunter Rise
 ---
-![[03 Assets/Monster Hunter Rise/header.jpg]]
+![[Monster Hunter Rise - header.jpg]]
 
 > [!info]+ Game Info
 > **Developer:** [[Capcom]]
